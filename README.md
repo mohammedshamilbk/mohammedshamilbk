@@ -187,7 +187,6 @@ Advanced branded QR code generation with:
 | Platform | Link |
 |----------|------|
 | **GitHub** | [@mohammedshamilbk](https://github.com/mohammedshamilbk) |
-| **Business** | [PTN Exlith Digital](https://ptnexlithdigital.com) |
 | **Social Links** | [linktr.ee/shamilmohammed926](https://linktr.ee/shamilmohammed926) |
 | **Email** | [shamilmohammed926@gmail.com](mailto:shamilmohammed926@gmail.com) |
 
@@ -209,7 +208,6 @@ I'm actively interested in:
 
 ## 🔗 Quick Links
 
-- 📖 **Portfolio:** [ptnexlithdigital.com](https://ptnexlithdigital.com)
 - 💌 **Email Me:** shamilmohammed926@gmail.com
 - 🔗 **Social:** [linktr.ee/shamilmohammed926](https://linktr.ee/shamilmohammed926)
 - ⭐ **Star My Projects** if you find them useful!
