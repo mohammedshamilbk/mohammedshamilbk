@@ -16,7 +16,29 @@ I'm a passionate developer building **real-world business software solutions** a
 - 📊 **Student/Business Management Systems**
 
 Currently working on **PTN Exlith Digital** projects, transforming ideas into working software.
+# Project Name
 
+## Description
+Brief description of what this project does
+
+## Tech Stack
+- Language: Java/C++/Python
+- Framework: GUI/Web/etc
+- Database: SQLite/etc
+
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Installation
+Steps to run locally
+
+## Usage
+How to use the application
+
+## Author
+Mohammed Shamil (mohammedshamilbk)
 ---
 
 ## 💻 Tech Stack
@@ -66,7 +88,7 @@ Branded QR code generators with logo overlay, employee ID card systems, and visa
 
 ## 🔗 Connect With Me
 
-- **mail id:**shamilmohammed926@gmail.com**
+- **Mail id:****shamilmohammed926@gmail.com**
 - **Social & Links:** [linktr.ee/shamilmohammed926](https://linktr.ee/shamilmohammed926)
 - **GitHub:** [@mohammedshamilbk](https://github.com/mohammedshamilbk)
 
