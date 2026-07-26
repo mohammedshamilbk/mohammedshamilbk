@@ -1,20 +1,5 @@
 # Hey there! 👋 I'm Mohammed
 
-... (your existing bio text) ...
-
-## 🛠️ Technologies I Use
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-## 💻 Tech Stack
-
-... (rest of your existing content) ...
-
 **Full Stack Developer | Business Software Solutions | QR Code & Digital ID Solutions**
 
 ---
@@ -31,29 +16,18 @@ I'm a passionate developer building **real-world business software solutions** a
 - 📊 **Student/Business Management Systems**
 
 Currently working on **PTN Exlith Digital** projects, transforming ideas into working software.
-# Project Name
 
-## Description
-Brief description of what this project does
+---
 
-## Tech Stack
-- Language: Java/C++/Python
-- Framework: GUI/Web/etc
-- Database: SQLite/etc
+## 🛠️ Technologies I Use
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-## Installation
-Steps to run locally
-
-## Usage
-How to use the application
-
-## Author
-Mohammed Shamil (mohammedshamilbk)
 ---
 
 ## 💻 Tech Stack
@@ -103,8 +77,9 @@ Branded QR code generators with logo overlay, employee ID card systems, and visa
 
 ## 🔗 Connect With Me
 
-- **Mail id:****shamilmohammed926@gmail.com**
+- **Email:** shamilmohammed926@gmail.com
 - **Social & Links:** [linktr.ee/shamilmohammed926](https://linktr.ee/shamilmohammed926)
+- **Business:** [PTN Exlith Digital](https://ptnexlithdigital.com)
 - **GitHub:** [@mohammedshamilbk](https://github.com/mohammedshamilbk)
 
 ---
