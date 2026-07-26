@@ -66,7 +66,7 @@ Branded QR code generators with logo overlay, employee ID card systems, and visa
 
 ## 🔗 Connect With Me
 
-- **Business:** [PTN Exlith Digital](https://ptnexlithdigital.com)
+- **mail id:**shamilmohammed926@gmail.com**
 - **Social & Links:** [linktr.ee/shamilmohammed926](https://linktr.ee/shamilmohammed926)
 - **GitHub:** [@mohammedshamilbk](https://github.com/mohammedshamilbk)
 
