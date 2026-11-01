@@ -17,8 +17,8 @@
 **Full Stack Developer** crafting enterprise-grade business software solutions with focus on real-world problem solving. Specialized in building scalable desktop and web applications that drive business efficiency.
 
 ```
-📍 Location: Kanayannur, Kerala, India
-💼 Company: PTN Exlith Digital
+📍 Location: Kasaragod, Kerala, India
+💼 Company: master.cloud_
 🎓 Focus: Business Software Architecture & Digital Solutions
 🚀 Passion: Building tools that matter
 ```
